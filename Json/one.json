@@ -1,5 +1,39 @@
 {
-  "name" : "subhadip mondal",
-  "age" : 21,
-  "place" : "ghatal"
+  "people": [
+    {
+      "name": "subahdip mondal",
+      "age": 21,
+      "place": "ghatal"
+    },
+    {
+      "name": "subhadm shankar",
+      "age": 22,
+      "place": "kharagpur"
+    },
+    {
+      "name": "pritam manna",
+      "age": 23,
+      "place": "Hoogly"
+    },
+    {
+      "name": "uday dey",
+      "age": 24,
+      "place": "kharagpur"
+    },
+    {
+      "name": "sarath kumar",
+      "age": 20,
+      "place": "khatagpur"
+    },
+    {
+      "name": "debangsu das",
+      "age": 22,
+      "place": "hoogly"
+    },
+    {
+      "name": "abhranil halder",
+      "age": 21,
+      "place": "tamluk"
+    }
+  ]
 }
