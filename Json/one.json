@@ -34,6 +34,16 @@
       "name": "abhranil halder",
       "age": 21,
       "place": "tamluk"
+    },
+        {
+      "name": "kamal santra",
+      "age": 21,
+      "place": "hotel"
+    },
+        {
+      "name": "rio",
+      "age": 21,
+      "place": "vagar"
     }
   ]
 }
